@@ -16,5 +16,10 @@ Với mục tiêu này, 4 thành viên:
     1. Quản lý các khoản phí 
     1. Phản ánh các vấn đề với quản lý 
 1. Hãy đến với chức năng mà các cư dân quan tâm nhất `Quản lý các khoản phí`
-1. Tại đây là danh sách các khoản phí, hãy chọn 1 khoản phí, chọn thanh toán để thực hiện thanh toán. Chọn ngân hàng của bạn, hoặc có thể tìm kiếm. Nhập thông tin thanh toán và xác nhận. Dễ thấy trạng thái nộp phí đã chuyển sang đã nộp tiền. Ở chi tiết, nút nộp phí đã được disable, ko lo bấm nhầm. 
-1. Điền các thông tin  
+    1. Tại đây là danh sách các khoản phí, hãy chọn 1 khoản phí, chọn thanh toán để thực hiện thanh toán. Chọn ngân hàng của bạn, hoặc có thể tìm kiếm. Nhập thông tin thanh toán và xác nhận. Dễ thấy trạng thái nộp phí đã chuyển sang đã nộp tiền. Ở chi tiết, nút nộp phí đã được disable, ko lo bấm nhầm. 
+    1. Điền các thông tin để tìm kiếm khoản phí cũ hơn 
+1. Phản ánh:
+Điền các thông tin và chúng sẽ được gửi ngay lập tức đến quản lý, bạn cũng có thể theo dõi phản hồi lại 
+1. Căn hộ 
+Bao gồm danh sách các thành viên, bạn có thể dễ dàng xem thông tin chi tiết và chỉnh sửa nếu cần thiết 
+**Và đó là Apartment Building Manager trong 100 giây**
