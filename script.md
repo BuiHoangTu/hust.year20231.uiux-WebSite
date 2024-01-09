@@ -23,3 +23,21 @@ Với mục tiêu này, 4 thành viên:
 1. Căn hộ 
 Bao gồm danh sách các thành viên, bạn có thể dễ dàng xem thông tin chi tiết và chỉnh sửa nếu cần thiết 
 **Và đó là Apartment Building Manager trong 100 giây**
+
+## Quản lý 
+1. Điền thông tin đăng nhập của quản lý
+1. Ở trang chủ là thông tin tổng quan về căn hộ của bạn và các thông báo mới
+1. Phía bên phải là thanh menu với các chức năng chính 
+    1. Quản lý căn hộ của mình 
+    1. Quản lý các khoản phí 
+    1. Phản ánh các vấn đề với quản lý
+1. Hãy đến với chức năng mà các quản lý quan tâm nhất `Thu phí một cách dễ dàng`
+    1. Tại đây là danh sách các khoản phí, chọn tạo khoản phí, điền các thông tin, điền số tiền, chọn khoản phí này thu theo đầu người hay theo phòng. Tạo khoản phí đã thành công, ở phía cư dân sẽ xuất diện khoản phí này      
+    1. Chọn 1 khoản phí, thông tin chi tiết về khoản phí này, số người đã đóng, còn những ai chưa đóng. 
+    1. Cũng có thể dễ dàng tìm kiếm khoản phí cũ hơn 
+1. Căn hộ 
+Bao gồm danh sách các căn hộ, các thành viên, bạn có thể dễ dàng xem thông tin chi tiết và chỉnh sửa nếu cần thiết 
+1. Phản ánh:
+QL cũng cần đảm bảo đời sống của cư dân và xử lý các vấn đề họ gặp phải. Chọn một phản ánh, chuyển trạng thái thành đang xử lý và giải quyết chúng. Giờ bạn có thể quay lại và chuyển trạng thái sang hoàn thành. 
+
+**Và đó là Apartment Building Manager trong 100 giây**
