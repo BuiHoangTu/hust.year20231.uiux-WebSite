@@ -11,7 +11,7 @@ Với mục tiêu này, 4 thành viên:
 ## Cư dân 
 1. Trước hết đăng nhập bằng tài khoản được cấp khi đăng ký phòng ở với quản lý 
 1. ở trang chủ, người dùng có thể dễ dàng thấy được thông tin căn hộ của mình và danh sách thông báo mới 
-1. Phía bên phải là thanh menu với các chức năng chính 
+1. Phía bên trái là thanh menu với các chức năng chính 
     1. Quản lý căn hộ của mình 
     1. Quản lý các khoản phí 
     1. Phản ánh các vấn đề với quản lý 
@@ -27,7 +27,7 @@ Bao gồm danh sách các thành viên, bạn có thể dễ dàng xem thông ti
 ## Quản lý 
 1. Điền thông tin đăng nhập của quản lý
 1. Ở trang chủ là thông tin tổng quan về căn hộ của bạn và các thông báo mới
-1. Phía bên phải là thanh menu với các chức năng chính 
+1. Phía bên trái là thanh menu với các chức năng chính 
     1. Quản lý các căn hộ  
     1. Quản lý các khoản phí 
     1. Xử lý các phản ánh 
@@ -45,7 +45,7 @@ QL cũng cần đảm bảo đời sống của cư dân và xử lý các vấn
 ## Quản trị 
 1. Điền thông tin đăng nhập của quản trị 
 1. Ở trang chủ là thông tin tổng quan về căn hộ của bạn và các thông báo mới
-1. Phía bên phải là thanh menu với các chức năng chính 
+1. Phía bên trái là thanh menu với các chức năng chính 
     1. Xem các khoản phí 
     1. Xem các phản ánh  
 1. Hãy đến với chức năng mà các quản trị quan tâm nhất `Quản lý các khoản thu`
@@ -58,7 +58,7 @@ Quản trị có thể kiểm tra xem quản lý có xử lý các vấn đề k
 ## Công an  
 1. Điền thông tin đăng nhập của công an
 1. Ở trang chủ là thông tin tổng quan về căn hộ của bạn và các thông báo mới
-1. Phía bên phải là thanh menu với các chức năng chính 
+1. Phía bên trái là thanh menu với các chức năng chính 
     1. Thông tin cư dân  
 1. Căn hộ 
 Bao gồm danh sách các căn hộ, các thành viên, bạn có thể dễ dàng xem thông tin chi tiết và chỉnh sửa nếu cần thiết 
